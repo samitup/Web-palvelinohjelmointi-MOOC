@@ -1,0 +1,8 @@
+reservations\SecurityConfiguration.class
+reservations\ReservationsApplication.class
+reservations\ReservationController.class
+reservations\Reservation.class
+reservations\Account.class
+reservations\ReservationRepository.class
+reservations\AccountRepository.class
+reservations\DefaultController.class

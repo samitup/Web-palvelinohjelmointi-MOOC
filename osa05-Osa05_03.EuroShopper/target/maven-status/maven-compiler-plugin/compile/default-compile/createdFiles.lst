@@ -1,0 +1,11 @@
+euroshopper\ShoppingCart.class
+euroshopper\Order.class
+euroshopper\OrderItem.class
+euroshopper\DefaultController.class
+euroshopper\EuroShopperApplication.class
+euroshopper\OrderController.class
+euroshopper\OrderRepository.class
+euroshopper\ShoppingCartController.class
+euroshopper\ItemRepository.class
+euroshopper\ItemController.class
+euroshopper\Item.class

@@ -1,0 +1,5 @@
+helloauthentication\Message.class
+helloauthentication\MessageRepository.class
+helloauthentication\MessageController.class
+helloauthentication\HelloAuthenticationApplication.class
+helloauthentication\DefaultController.class

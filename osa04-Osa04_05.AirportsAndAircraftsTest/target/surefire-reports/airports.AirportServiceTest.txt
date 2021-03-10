@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: airports.AirportServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.247 s - in airports.AirportServiceTest

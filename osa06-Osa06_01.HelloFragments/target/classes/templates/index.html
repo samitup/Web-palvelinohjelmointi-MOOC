@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Supersite</title>
+    </head>
+    <body>
+        <header th:replace="fragments/layout :: header"></header>
+
+        <section th:replace="fragments/layout :: section"></section>
+
+
+        <main>
+            <p>Welcome!</p>
+        </main>
+
+        <footer th:fragment="fragments/layout :: ad"></footer>
+
+    </body>
+</html>
